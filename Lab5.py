@@ -41,7 +41,7 @@ print(string_reapeater("hello", 5))
 
 # 4. Write a function called number_adder(num1, num2) that takes two numbers as parameters and returns the sum of the two numbers. Include Type Hinting and a Docstring.
 def number_adder(num1: int, num2: int) -> int:
-    """takes in two numbers and returns teh sum of the two numbers
+    """takes in two numbers and returns the sum of the two numbers
     
     Args:
         num1 (int): number1
