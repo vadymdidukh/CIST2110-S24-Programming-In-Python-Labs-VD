@@ -37,7 +37,7 @@ This lab is designed to create a simple web application using streamlit and crea
 # Print out the result.
 
 
-# 9. Run the web application by typing streamlit run Lab9.py in the terminal. Enter a date in the format of YYYY-MM-DD and click the button. Check to see if the number of days until the date entered is correct. If the number of days is correct, then you have completed the lab. If the number of days is incorrect, then you will need to debug your code.
+# 9. Run the web application by typing streamlit run Lab10.py in the terminal. Enter a date in the format of YYYY-MM-DD and click the button. Check to see if the number of days until the date entered is correct. If the number of days is correct, then you have completed the lab. If the number of days is incorrect, then you will need to debug your code.
 
 
 if __name__ == "__main__":
