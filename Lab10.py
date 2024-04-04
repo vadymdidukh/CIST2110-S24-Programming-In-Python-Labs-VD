@@ -38,7 +38,6 @@ def calculate_days(date):
 
 print(calculate_days(date))
 
-
 # 8. Create a app function that will run the web application.
 
 # Check if the button has been clicked, then call the calculate_days function and pass in the date entered by the user. Use a try except block to catch any errors.
