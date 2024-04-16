@@ -10,7 +10,7 @@
 
 ### END CODE FROM LAB12.PY ###
 
-# START OF HOMEWORK Questions
+# START OF Lab 13 Questions
 # 1. Create a method called add_product_to_customer_cart that takes in a Customer object and a Product object. The method should add the product to the customer's cart. The method should also print out the product that was added and the customer's name.
 # Hint: You can use the add_to_cart method from the Customer class.
 # Hint2: This method does not need to be in a class. It should be a regular function that takes in a Customer object and a Product object.
